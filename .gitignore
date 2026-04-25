@@ -1,0 +1,7 @@
+# Go binaries
+*.exe
+*.out
+
+# IDE metadata
+.idea/
+*.iml
