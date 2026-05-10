@@ -12,5 +12,6 @@ calculator/bin/
 # Local helper copy (not part of this practice repo layout)
 /go-calculator/
 
-# Todo app local data
-todo.txt
+# Todo CLI build output and local data
+todo-list/bin/
+todo-list/todo.txt
