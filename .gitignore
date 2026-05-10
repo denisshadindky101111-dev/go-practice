@@ -15,3 +15,6 @@ calculator/bin/
 # Todo CLI build output and local data
 todo-list/bin/
 todo-list/todo.txt
+
+# Products CLI build output
+go-products/bin/
