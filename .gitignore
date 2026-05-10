@@ -1,2 +1,10 @@
-/bin/
-/go-calculator/
+# Go binaries
+*.exe
+*.out
+
+# IDE metadata
+.idea/
+*.iml
+
+# Expression calculator build output
+calculator/bin/
